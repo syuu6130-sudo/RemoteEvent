@@ -594,7 +594,6 @@ MainTab:CreateSection("")
 SearchTab:CreateSection("")
 CaptureTab:CreateSection("")
 SettingsTab:CreateSection("")
-
 -- より高度なバージョンに追加できる機能：
 
 -- 1. 保存済みRemoteEventリスト
